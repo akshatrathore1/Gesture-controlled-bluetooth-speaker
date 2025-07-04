@@ -107,4 +107,4 @@ Gesture → Detected by webcam → Python interprets → Media action triggered 
 ## Application 
 
 It can be transformed into a compact device equipped with a camera, allowing you to control music playback with just a flick of the hand, without the need to go back to the speaker repeatedly.
-It's more of a niche product than an everyday essential.
+It's more of a niche product than an everyday essential. There is also scope for creating a multi-purpose device that works with all sorts of bluetooth devices.
