@@ -95,7 +95,7 @@ Can be extended to show currently playing media information.
 * The **LCD** diplays the action performed.
 
 
-## Final Output
+## Workflow
 
 Gesture → Detected by webcam → Python interprets → Media action triggered by Arduino → LCD displays status
 
